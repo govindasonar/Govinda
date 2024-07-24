@@ -1,3 +1,3 @@
 # Govinda
 Free Trial
-Author: Atharv Dusane
+"Author": "Atharv Dusane",
